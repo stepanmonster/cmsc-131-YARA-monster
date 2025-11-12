@@ -1,0 +1,1 @@
+rule HelloString { strings: $a = "hello" wide ascii condition: $a }
