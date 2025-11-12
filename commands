@@ -1,0 +1,5 @@
+Build command:
+g++ -std=c++17 -O2 -I "yara-4.5.5/libyara/include" src/main.cpp src/yara_scan.cpp src/traverse.cpp -L "yara-4.5.5/libyara/lib" -lyara -lcrypto -lssl -lz -o build/yara_app.exe
+
+Run command:
+build/yara_app.exe rules/hello.yar samples --ext=.txt,.exe
