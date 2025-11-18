@@ -1,0 +1,3 @@
+rule,file
+"HelloString","./samples\\hello.txt"
+"Monster","./samples\\monster.txt"

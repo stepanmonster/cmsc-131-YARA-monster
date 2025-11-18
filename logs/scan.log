@@ -1,0 +1,44 @@
+2025-11-18T23:30:49 [INFO] start rules=rules/all.yar root=.
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\.git\config
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\.git\FETCH_HEAD
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\.git\index
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\commands
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\README.md
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\rules\all.yar
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\rules\all.yar
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\rules\hello.yar
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\rules\monster.yar
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\samples\hello.txt
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\samples\monster.txt
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\.libs\libyara.la
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\.libs\libyara.lai
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\config.log
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\config.status
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\libyara\lib\libyara.la
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\libyara\lib\pkgconfig\yara.pc
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\libyara.la
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\Makefile
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\stage\lib\libyara.la
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\stage\lib\pkgconfig\yara.pc
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\dex_fuzzer_corpus\27fb31059503773723597edb875c937af971a6c15f91aac8c03c1fbdfa9e918c
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\dex_fuzzer_corpus\b343d1058063e6e4b652ccf0589f93d0dbb6b092960e4aebc3c3c58894831359
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\crash-49bb55d669fda0683f945b89396a6bd458caf2d8
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\crash-7dc27920ae1cb85333e7f2735a45014488134673
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\crash-7e945ce5f43f515ea078c558a2e3205089d414e5
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\crash-a809561e75b94bd5d4d8cf7488d9e2663fc1ccdc
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\crash-a8715a38a94161c9509309f5dbb5a7936aba8376
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\crash-c4002396c52065d21fe1c1f05f8937aab8d59c18
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\crash-c6569e6e28f0a18bb2f3bf49c982333a359bed67
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\crash-f1fd008da535b110853885221ebfaac3f262a1c1e280f10929f7b353c44996c8
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\poc-939e9cd87b0d80834210fbf54edc66341aebf416d7509f6633f1d49766978b22
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\poc-93a9fd1909dd49fc2a9b654333504f249cdac58126d3cfc4728577e78cb3eb89
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\oss-fuzz\elf_fuzzer_corpus\poc-b5b03a1f305b2cc1c158e01fee6c08c65145325d4e073f04d969329577077862
+2025-11-18T23:30:49 [INFO] match rule=HelloString file=.\yara-4.5.5\tests\test-dex.c
+2025-11-18T23:30:49 [INFO] match rule=Monster file=.\yara-4.5.5\yara.pc
+2025-11-18T23:30:49 [INFO] done files_scanned=1209 matches=36 duration_ms=889
+2025-11-18T23:31:43 [INFO] start rules=rulesall.yar root=./samples
+2025-11-18T23:31:43 [ERROR] rules not found: rulesall.yar
+2025-11-18T23:31:54 [INFO] start rules=rules/all.yar root=./samples
+2025-11-18T23:31:54 [INFO] match rule=HelloString file=./samples\hello.txt
+2025-11-18T23:31:54 [INFO] match rule=Monster file=./samples\monster.txt
+2025-11-18T23:31:54 [INFO] done files_scanned=2 matches=2 duration_ms=1

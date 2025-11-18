@@ -1,0 +1,9 @@
+{
+  "rule_path": "rules/all.yar",
+  "root_dir": "./samples",
+  "stats": {"files_scanned": 2, "matches": 2, "errors": 0, "skipped": 0, "duration_ms": 1},
+  "matches": [
+    {"rule": "HelloString", "file": "./samples\\hello.txt"},
+    {"rule": "Monster", "file": "./samples\\monster.txt"}
+  ]
+}

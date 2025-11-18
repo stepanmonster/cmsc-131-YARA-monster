@@ -1,1 +1,6 @@
-rule HelloString { strings: $a = "hello" wide ascii condition: $a }
+rule HelloString {
+  strings:
+    $a = "hello" ascii wide
+  condition:
+    $a
+}
